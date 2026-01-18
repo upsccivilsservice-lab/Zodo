@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lumina - Hyper-Local Chat",
+  "description": "A high-end, lovable hyper-local chatting application that connects you with people within a 1km radius using geofencing and soft pastel aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
